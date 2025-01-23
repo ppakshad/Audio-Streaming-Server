@@ -16,7 +16,7 @@ A **multi-threaded audio streaming server** in **Java** using **TCP**. The clien
 ### **Steps to Run**
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/audio-streaming-server.git
+git clone https://github.com/ppakshad/Audio-Streaming-Server.git
 cd audio-streaming-server
 
 # Compile and run
